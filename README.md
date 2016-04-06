@@ -2,6 +2,8 @@
 
 ---LEGGIMI---
 
+Inserire config.yml e client.py nella stessa cartella.
+
 1.loggare con utente: admin e password: admin in modo da entrare altrimenti ti scollega.
 
 2.ISTRUZIONI PER Config.yml:
